@@ -2,10 +2,10 @@
   "name": "JAVA",
   "version": "v3.0",
   "category": "prog",
-  "title": "Golang, premiers pas",
+  "title": "JAVA, premiers pas",
   "subtitle": "Un langage simple et efficace",
-  "header": "Golang, premiers pas",
-  "footer": "2023 - Golang @@version@@ - @@author_fullname@@ - @@author_email@@",
+  "header": "JAVA, premiers pas",
+  "footer": "2023 - JAVA @@version@@ - @@author_fullname@@ - @@author_email@@",
   "logo": "",
   "author": "author_@@author@@.md",
   "schedule": "sdv_m.html",
@@ -14,8 +14,8 @@
   "chapters": [
     {
       "title": "Introduction",
-      "footer": "@@author_fullname@@ - Golang - Introduction",
-      "introduction": "Dans lequel nous aborderons les concepts de base de golang",
+      "footer": "@@author_fullname@@ - JAVA - Introduction",
+      "introduction": "Dans lequel nous aborderons les concepts de base de JAVA",
       "sections": [
         {
           "filename": "prog/golang_introduction.md"
@@ -39,7 +39,7 @@
     },
     {
       "title": "Interfaces et JSON",
-      "footer": "@@author_fullname@@ - Golang - Interfaces",
+      "footer": "@@author_fullname@@ - JAVA - Interfaces",
       "introduction": "Dans lequel nous verrons la puissance de deux outils importants, les interfaces et le json",
       "sections": [
         {
@@ -61,7 +61,7 @@
     },
     {
       "title": "Concurrence",
-      "footer": "@@author_fullname@@ - Golang - Concurrence",
+      "footer": "@@author_fullname@@ - JAVA - Concurrence",
       "introduction": "Dans nous lequel parlerons la concurrence de",
       "sections": [
         {
