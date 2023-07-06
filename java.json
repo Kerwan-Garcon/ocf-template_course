@@ -1,7 +1,7 @@
 {
   "name": "JAVA",
   "version": "v3.0",
-  "category": "prog",
+  "category": "prog_java",
   "title": "JAVA, premiers pas",
   "subtitle": "Un langage simple et efficace",
   "header": "JAVA, premiers pas",
@@ -18,22 +18,22 @@
       "introduction": "Dans lequel nous aborderons les concepts de base de JAVA",
       "sections": [
         {
-          "filename": "prog/golang_introduction.md"
+          "filename": "prog_java/golang_introduction.md"
         },
         {
-          "filename": "prog/golang_outils.md"
+          "filename": "prog_java/golang_outils.md"
         },
         {
-          "filename": "prog/golang_memoire.md"
+          "filename": "prog_java/golang_memoire.md"
         },
         {
-          "filename": "prog/golang_architecture.md"
+          "filename": "prog_java/golang_architecture.md"
         },
         {
-          "filename": "prog/golang_maps.md"
+          "filename": "prog_java/golang_maps.md"
         },
         {
-          "filename": "prog/golang_tp_bases.md"
+          "filename": "prog_java/golang_tp_bases.md"
         }
       ]
     },
@@ -43,19 +43,19 @@
       "introduction": "Dans lequel nous verrons la puissance de deux outils importants, les interfaces et le json",
       "sections": [
         {
-          "filename": "prog/golang_rappels_intro.md"
+          "filename": "prog_java/golang_rappels_intro.md"
         },
         {
-          "filename": "prog/golang_interfaces.md"
+          "filename": "prog_java/golang_interfaces.md"
         },
         {
-          "filename": "prog/golang_json.md"
+          "filename": "prog_java/golang_json.md"
         },
         {
-          "filename": "prog/golang_tp_interfaces.md"
+          "filename": "prog_java/golang_tp_interfaces.md"
         },
         {
-          "filename": "prog/golang_tp_json.md"
+          "filename": "prog_java/golang_tp_json.md"
         }
       ]
     },
@@ -65,16 +65,16 @@
       "introduction": "Dans nous lequel parlerons la concurrence de",
       "sections": [
         {
-          "filename": "prog/golang_concurrence_threads.md"
+          "filename": "prog_java/golang_concurrence_threads.md"
         },
         {
-          "filename": "prog/golang_concurrence_channels.md"
+          "filename": "prog_java/golang_concurrence_channels.md"
         },
         {
-          "filename": "prog/golang_cross_compilation.md"
+          "filename": "prog_java/golang_cross_compilation.md"
         },
         {
-          "filename": "prog/golang_tp_concurrence.md"
+          "filename": "prog_java/golang_tp_concurrence.md"
         }
       ]
     }
